@@ -1,5 +1,6 @@
-function Subtitulo() {
-    return <h2>CREAR MI CITA</h2>
+function Subtitulo({texto}) {
+    return( <h2>{texto}</h2>) 
+   
 }
 
 export default Subtitulo
