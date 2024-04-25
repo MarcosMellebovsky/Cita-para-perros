@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cita-para-perros/static/css/main.6dc739de.css",
+    "main.js": "/Cita-para-perros/static/js/main.6f4aad28.js",
+    "static/js/453.8c80987c.chunk.js": "/Cita-para-perros/static/js/453.8c80987c.chunk.js",
+    "index.html": "/Cita-para-perros/index.html",
+    "main.6dc739de.css.map": "/Cita-para-perros/static/css/main.6dc739de.css.map",
+    "main.6f4aad28.js.map": "/Cita-para-perros/static/js/main.6f4aad28.js.map",
+    "453.8c80987c.chunk.js.map": "/Cita-para-perros/static/js/453.8c80987c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc739de.css",
+    "static/js/main.6f4aad28.js"
+  ]
+}
